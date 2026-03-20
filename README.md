@@ -45,7 +45,7 @@ Zero-config **CI/CD framework** for AI-assisted monorepos — auto-generates Git
 
 <div align="center">
 
-#### AI & GenAI
+#### AI
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
