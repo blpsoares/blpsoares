@@ -46,10 +46,11 @@ Zero-config **CI/CD framework** for AI-assisted monorepos — auto-generates Git
 <div align="center">
 
 #### AI
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 
@@ -97,7 +98,7 @@ Zero-config **CI/CD framework** for AI-assisted monorepos — auto-generates Git
 <br><br>
 
 <p><b>Visitors</b></p>
-<img src="https://profile-counter.glitch.me/blpsoares/count.svg" />
+<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fblpsoares.dev%2Fvisitors&style=for-the-badge" />
 
 <br><br>
 
