@@ -1,68 +1,77 @@
+# Bryan Soares
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=3000&color=00FF00&size=36&center=true&vCenter=true&width=2100&lines=<Buffer+55+32+56+71+59+53+42+69+5a+57+30+67+64+6d+6c+75+5a+47+38+6f+59+53+6b+68>)
+**Senior Backend Engineer | AI Engineering**
 
+[![Website](https://img.shields.io/badge/-blpsoares.dev-000?style=flat-square&logo=google-chrome&logoColor=white)](https://blpsoares.dev)
+[![LinkedIn](https://img.shields.io/badge/-blpsoares-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/blpsoares)
+[![Email](https://img.shields.io/badge/-bryanluccas@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:bryanluccas@hotmail.com)
 
-### BackEnd
-[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,js,ts,express,gcp,docker)](https://skillicons.dev)
+---
 
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,redis)](https://skillicons.dev)
+## About Me
+
+Backend engineer focused on **applied AI** — building LLM-powered agents, RAG pipelines, and multi-agent orchestration systems in production. Currently shipping AI features at scale at [Eletromidia](https://eletromidia.com.br) in São Paulo.
+
+Postgraduate student in **Applied AI Engineering** at UNIPDS.
+
+<details>
+<summary>🇧🇷 Sobre Mim (PT-BR)</summary>
 <br>
 
-### FrontEnd
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,vite,figma)](https://skillicons.dev)
-<br>
+Engenheiro backend focado em **IA aplicada** — construindo agentes com LLMs, pipelines RAG e sistemas de orquestração multi-agente em produção. Atualmente desenvolvendo features com IA em escala na [Eletromidia](https://eletromidia.com.br) em São Paulo.
 
-### Estou estudando
-[![My Skills](https://skillicons.dev/icons?i=jest,nest)](https://skillicons.dev)
-<br>
+Pós-graduando em **Engenharia de IA Aplicada** na UNIPDS.
 
+</details>
 
-### Minhas Ferramentas
-[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=ubuntu"/>
-<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
-<br>
-<br>
+---
 
-#### Experiência Profissional:
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+## Open Source
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Eletromidia_logo.png"/>](https://eletromidia.com.br/)
-**Desenvolvedor BackEnd Pleno** \
-[**Eletromidia**](https://eletromidia.com.br/) \
-Competências: `NodeJS`, `Google Cloud Plataform`, `TypeScript`,
-<br/> `Rest API`, `MongoDB`
-<br />
-<br />
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9iGhD6F-34TbUGWcZIk4cOKWBYdM_NghoAI4t3pYww&s"/>](https://alest.com.br/)
-**Desenvolvedor BackEnd** \
-[**Alest**](https://alest.com.br/) \
-Competências: `NodeJS`, `Google Cloud Plataform`, `React`, `TypeScript`,
-<br/> `GraphQL`, `Rest API`, `Firebase`
-<br />
-<br />
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/129233354?s=64&v=4"/>](https://nextfusion.com.br/)
-**Desenvolvedor FrontEnd** \
-[**Next Fusion**](https://nextfusion.com.br/) \
-Competências: `NodeJS`, `Javascript`, `Vue`, `TypeScript`,
-<br/> `Hospedagem`, `SCSS`,`Bootstrap`
+| Project | Description |
+|---------|-------------|
+| [**DuckFlux**](https://github.com/duckflux) | Declarative YAML DSL for multi-agent orchestration — parallel execution, CEL conditionals, state machines, native MCP support |
+| [**Embark**](https://github.com/opvibes/embark) | Zero-config CI/CD framework for AI-assisted monorepos — auto-generates GitHub Actions, Dockerfiles, and deploy pipelines |
 
-#### Formação Acadêmica:
- [<img align="left"  width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/dgJL67nlaWsk8GBB2Kq6RtG0XjJPY8QJ0F6LuHkas4dz5lY9lnjJOc48FhoU5Hl0uEo"/>](https://www.pucpr.br/)
-**PUCPR - Pontifícia Universidade Católica do Paraná** \
-**Analise e Desenvolvimento e Sistemas** \
-[**PUCPR**](https://www.pucpr.br/) • 5º Semestre \
-<br>
-<br>
-### Entre em contato:
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/bryaanls/)
+---
 
+## Tech Stack
+
+**AI & GenAI**\
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG_Pipelines-FF6F00?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-8A2BE2?style=flat-square)
+
+**Backend & Infra**\
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000?style=flat-square&logo=bun&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Automation**\
+![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Windmill](https://img.shields.io/badge/-Windmill-3B82F6?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+---
+
+## Experience
+
+- **Senior Backend Engineer @ Eletromidia** (2025–present) — Technical leadership, AI-powered features with OpenAI & Claude APIs, system architecture with AI-assisted modelling
+- **Backend Engineer @ Eletromidia** (2024–2025) — Built AI agent for NLP→MongoDB queries, AI-assisted test generation pipeline (−60% overhead), MCP servers, N8N/Windmill automation
+- **Backend Developer @ Alest Consultoria** (2023–2024) — RAG chatbot with Dialogflow CX for pharma client, Document AI extraction pipeline, 20k+ file migration
+
+---
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bryaanls}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<p><b>Visitors</b></p>
+<img src="https://profile-counter.glitch.me/{BryaanLs}/count.svg" />
+</div>
