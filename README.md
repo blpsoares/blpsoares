@@ -22,8 +22,8 @@ Currently building AI features at scale at **[Eletromidia](https://eletromidia.c
 <tr>
 <td width="50%">
 
-### 🦆 [DuckFlux](https://github.com/duckflux)
-Declarative **YAML DSL** for multi-agent AI orchestration — parallel execution, CEL-powered conditionals, state machine flow control, native **MCP** support, and nested sub-workflows.
+### 🤖 [Agentistics](https://github.com/blpsoares/agentistics)
+Get Claude Code usage metrics, spending per project, template, project group, generate custom PDF reports, create and share visualization layouts.
 
 `TypeScript` `Bun` `Go` `YAML DSL` `MCP` `LLM Orchestration`
 
