@@ -25,7 +25,7 @@ Currently building AI features at scale at **[Eletromidia](https://eletromidia.c
 ### 🤖 [Agentistics](https://github.com/blpsoares/agentistics)
 Get Claude Code usage metrics, spending per project, template, project group, generate custom PDF reports, create and share visualization layouts.
 
-`TypeScript` `Bun` `Go` `YAML DSL` `MCP` `LLM Orchestration`
+`TypeScript` `Bun` `MCP` `LLM Orchestration` `TTY` `Tauri`
 
 </td>
 <td width="50%">
