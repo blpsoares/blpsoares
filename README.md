@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a6bff&height=180&section=header&text=Bryan%20Soares&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Backend%20Engineer%20%7C%20AI%20Engineering&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a6bff&height=180&section=header&text=Bryan%20Soares&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineering&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" width="100%" />
 
 [![Website](https://img.shields.io/badge/blpsoares.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blpsoares.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blpsoares)
@@ -12,7 +12,7 @@
 
 Backend engineer with 5+ years building scalable systems with Node.js and TypeScript. Over the past 3 years, deep focus on **applied AI** — designing and shipping LLM-powered features, multi-agent systems, RAG pipelines, and workflow automation in production environments.
 
-Currently building AI features at scale at **[Eletromidia](https://eletromidia.com.br)** in São Paulo. Postgraduate student in **Applied AI Engineering** at UNIPDS.
+Currently building AI features at scale at **[Eletromidia](https://eletromidia.com.br)** in São Paulo. Postgraduate student in **Applied AI Engineer** at UNIPDS.
 
 <br>
 
@@ -75,7 +75,7 @@ Zero-config **CI/CD framework** for AI-assisted monorepos — auto-generates Git
 <tr>
 <td>
 
-**Senior Backend Engineer** · [Eletromidia](https://eletromidia.com.br) · *2025 – present*
+**AI Engineer | Sr Software Engineer** · [Eletromidia](https://eletromidia.com.br) · *2025 – present*
 > Technical leadership on AI-powered features with OpenAI & Claude APIs. System architecture with AI-assisted modelling. Large-scale data processing with Node.js Streams.
 
 **Backend Engineer** · [Eletromidia](https://eletromidia.com.br) · *2024 – 2025*
